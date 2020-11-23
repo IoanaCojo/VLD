@@ -381,6 +381,7 @@ html{
     height: 30rem;
     box-shadow: 0 1rem 4rem rgba(0,0,0,0.4);
     border-radius: .5rem;
+    position:relative;
 }
 
 .card-img-wrapper {
@@ -399,7 +400,7 @@ html{
 .card-info {
     bottom: 2rem;
     padding: 2rem;
-    width: 100%;
+    position: absolute;
 
 }
 
